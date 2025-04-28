@@ -86,7 +86,3 @@ X Education receives thousands of leads daily. The sales team needs to focus on 
 
 ---
 
-## 📁 Project Structure
-
-
-
